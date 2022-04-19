@@ -1,7 +1,7 @@
 # :paperclip: Computer vision <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 Computer vision is a field of artificial intelligence (AI) that enables computers and systems to derive meaningful information from digital images, videos and other visual inputs — and take actions or make recommendations based on that information.
 
-we tried to solve a small problem concerning computer vision:
+I tried to solve a small problem concerning computer vision:
 Realization of a disktop python application which establishes filters on the photos chosen by the user:
 
 https://user-images.githubusercontent.com/82539023/164038739-91b5fa47-a37a-4eee-9960-ab145c067328.mp4
