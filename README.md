@@ -1,4 +1,4 @@
-# :paperclip: Computer vision
+# :paperclip: Computer vision <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 Computer vision is a field of artificial intelligence (AI) that enables computers and systems to derive meaningful information from digital images, videos and other visual inputs — and take actions or make recommendations based on that information.
 
 
@@ -33,16 +33,14 @@ If you use pip, you can install NumPy with:
 ```bash
 pip install numpy
 ```
-
-
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+## Screenshots
 ![image](https://user-images.githubusercontent.com/82539023/163987323-0918cdf8-931f-46d7-a916-fccb9943fe68.png)
 ![image](https://user-images.githubusercontent.com/82539023/163987451-c35f4bc9-14b7-4979-8178-ee8d17fd78ba.png)
 ![image](https://user-images.githubusercontent.com/82539023/163987555-e2ac54e7-4f97-40d4-bfec-5ea3b697582e.png)
 ![image](https://user-images.githubusercontent.com/82539023/163987665-83bf39ff-bc90-4c23-b93d-76c812ddafb4.png)
 ![image](https://user-images.githubusercontent.com/82539023/163987750-b684353a-9025-4761-b872-0683a283cb65.png)
 ![image](https://user-images.githubusercontent.com/82539023/163987819-e1161659-e506-4ecb-94dc-b8d96c1fe628.png)
-
-
 
 
 
